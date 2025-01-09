@@ -4,4 +4,4 @@
  New-AzResourceGroupDeployment `
  -Name "01-resourceDeploymentDemo" `
  -ResourceGroupName $rg `
- -TemplateFile '01-storage.json'
+ -TemplateFile '01-storageParameters.json'
