@@ -9,6 +9,6 @@ This repository contains an ARM template for deploying resources to Azure. Use t
 
 ## Visualize the Template
 
-[![Visualize](https://aka.ms/armvisualizebutton)](https://portal.azure.com/#view/Microsoft_Azure_TemplateViewer/VisualizeTemplate/uri/https://raw.githubusercontent.com/kapanadze1975/Lab_1_Using_ARM_Template_with_Visual_Studio/main/01-storage.json
+[![Visualize](https://aka.ms/armvisualizebutton)](https://portal.azure.com/#view/Microsoft_Azure_TemplateViewer/VisualizeTemplate/uri/https://raw.githubusercontent.com/kapanadze1975/Lab_1_Using_ARM_Template_with_Visual_Studio/refs/heads/main/1.1_ARM_Storage_Template/01-storage.json
 )
 
