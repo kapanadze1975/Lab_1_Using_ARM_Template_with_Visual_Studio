@@ -26,9 +26,8 @@ languages:
 
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/kapanadze1975/Lab_1_Using_ARM_Template_with_Visual_Studio/refs/heads/main/1.1_ARM_Storage_Template/01-storage.json)
-[![Visualize](https://aka.ms/armvisualizebutton)](https://portal.azure.com/#view/Microsoft_Azure_TemplateViewer/VisualizeTemplate/uri/https://raw.githubusercontent.com/kapanadze1975/Lab_1_Using_ARM_Template_with_Visual_Studio/refs/heads/main/1.1_ARM_Storage_Template/01-storage.json)
 
-[![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Fapplication-workloads%2Fzulu%2FLinux-Java-ZuluOpenJDK%2Fazuredeploy.json)
+[![Visualize]([https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Fapplication-workloads%2Fzulu%2FLinux-Java-ZuluOpenJDK%2Fazuredeploy.json](https://raw.githubusercontent.com/kapanadze1975/Lab_1_Using_ARM_Template_with_Visual_Studio/refs/heads/main/1.1_ARM_Storage_Template/01-storage.json)
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Fapplication-workloads%2Fzulu%2FLinux-Java-ZuluOpenJDK%2Fazuredeploy.json" target="_blank">
     <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true"/>
